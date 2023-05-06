@@ -1,12 +1,10 @@
 - title: Altın Veri Seti
-  subtitle: a subtitle
   group: featured
-  image: images/gold.jpg
+  image: images/gold.png
   link: https://github.com/DepremKit/depremkit
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 - title: Gümüş Veri Seti
-  subtitle: a subtitle
   group: featured
   image: images/silver.png
   link: https://github.com/DepremKit/depremkit
