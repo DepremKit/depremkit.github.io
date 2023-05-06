@@ -1,10 +1,10 @@
 ---
-title: İletişim
+title: İLETİŞİM
 nav:
   order: 5
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}İletişim
+# {% include icon.html icon="fa-regular fa-envelope" %}İLETİŞİM
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
