@@ -1,7 +1,7 @@
 
-# DepremKit's Website
+# DepremKit'in Web Sitesi
 
-Visit **[depremkit.github.io](https://depremkit.github.io)** 🚀
+**[depremkit.github.io](https://depremkit.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
