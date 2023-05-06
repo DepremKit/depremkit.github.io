@@ -1,10 +1,10 @@
 ---
-title: Veri Seti
+title: VERİ SETİ
 nav:
   order: 2
 ---
 
-# {% include icon.html icon="fa-solid fa-database" %}Veri Seti
+# {% include icon.html icon="fa-solid fa-database" %}VERİ SETİ
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -14,7 +14,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include section.html %}
-
-## Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
