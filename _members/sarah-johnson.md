@@ -1,7 +1,6 @@
 ---
 name: Sarah Johnson
 image: images/photo.jpg
-description: Lead Programmer
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
