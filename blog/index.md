@@ -6,4 +6,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-square-poll-vertical" %}Sonuçlar
 
-Deney çıktıları bildiri sonuçlarının yayınlanmasının ardından paylaşılacaktır.
+DepremKit veri kümesi kullanılarak; ikili sınıflandırma, çoklu sınıflandırma ve Varlık İsim Tanıma problemleri üzerinde çalışılmıştır. Deney çıktıları bildiri sonuçlarının yayınlanmasının ardından paylaşılacaktır.
