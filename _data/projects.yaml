@@ -1,14 +1,14 @@
-- title: Altın Veri Seti
-  group: featured
+- title: Altın Veri Kümesi
+  group: dataset
   image: images/gold.png
   link: https://github.com/DepremKit/depremkit
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Altın veri kümesi, insanlar tarafından etiketlenmiş 3.750 veriyi içermektedir.
 
-- title: Gümüş Veri Seti
-  group: featured
+- title: Gümüş Veri Kümesi
+  group: dataset
   image: images/silver.png
   link: https://github.com/DepremKit/depremkit
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Gümüş veri kümesi, ChatGPT tarafından etiketlenmiş 50.000 veriyi içermektedir.
 
 - title: Cool Tutorial
   subtitle: a subtitle
