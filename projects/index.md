@@ -6,8 +6,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-database" %}VERİ SETİ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Depremin gerçekleştiği 06 Şubat 2023 03:00 ve 13 Şubat 2023 23:59 tarihleri arasında paylaşılan yaklaşık 12 milyon 700 bin tweet, anahtar kelime sorgulaması yapılarak Twitter'dan toplanmıştır. Kullanılan anahtar kelimeler aşağıda bulunmaktadır. 
+
+- Depremin gerçekleştiği 10 şehrin isimleri: Kahramanmaraş, Hatay, Gaziantep, Adana, Diyarbakır, Şanlıurfa, Malatya, Adıyaman, Kilis, Osmaniye
+- Deprem terimleri: Deprem, Afet, Enkaz, Göçük, Acil, Yardım
+- İlgili hesaplar: Afad, Afadbaşkanlık, DepremDairesi
 
 {% include tags.html tags="publication, resource, website" %}
 
