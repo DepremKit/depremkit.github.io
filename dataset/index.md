@@ -14,9 +14,7 @@ Depremin gerçekleştiği 06 Şubat 2023 03:00 ve 13 Şubat 2023 23:59 tarihleri
 
 Twitter'dan toplanan veriler içerisinden günlük veri dağılımı, saatlik veri dağılımı ve anahtar kelime dağılımlarına dikkat edilerek seçilen veriler ile altın ve gümüş veri kümeleri oluşturulmuştur.
 
-Veri kümelerinin tamamı bildiri sonuçlarının yayınlanmasının ardından paylaşılacaktır. Bu zamana kadar paylaşılan demo veri kümesi github sayfamızdan erişilebilir. 
-
-{% include button.html type="github" text="GitHub" link="depremkit/depremkit/dataset"%}
+Veri kümelerinin tamamı bildiri sonuçlarının yayınlanmasının ardından paylaşılacaktır. Demo veri kümesine github sayfamızdan erişilebilir.
 
 {% include section.html %}
 
