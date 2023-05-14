@@ -1,0 +1,11 @@
+- title: Altın Veri Kümesi
+  group: dataset
+  image: images/gold.png
+  link: https://github.com/DepremKit/depremkit
+  description: Altın veri kümesi, insanlar tarafından etiketlenmiş olan 3.750 veriyi içermektedir.
+
+- title: Gümüş Veri Kümesi
+  group: dataset
+  image: images/silver.png
+  link: https://github.com/DepremKit/depremkit
+  description: Gümüş veri kümesi, ChatGPT tarafından etiketlenmiş olan 50.000 veriyi içermektedir.
