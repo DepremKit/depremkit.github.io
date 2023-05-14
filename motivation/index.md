@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-rocket-launch" %}MOTİVASYON
+# {% include icon.html icon="fa-solid fa-square-poll-vertical" %}MOTİVASYON
 
 6 Şubat 2023'te gerçekleşen Kahramanmaraş merkezli deprem sonrasında insanlar; yardım çağrıları, ihtiyaç talepleri ve bağış duyurularını paylaşmak için Twitter'ı etkin olarak kullanmıştır. DepremKit çalışmasında, paylaşılan tweetlerin analiz edilmesi ve elde edilen bilgilerin depremden etkilenen insanlara verimli şekilde yardım ulaştırılmasına katkıda bulunacak bir veri kümesi oluşturulması hedeflenmiştir.
 
