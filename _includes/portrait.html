@@ -8,7 +8,7 @@
   <a
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name }}"
+    aria-label="{{ member.name | default: "member link" }}"
   >
     <img
       src="{{ member.image | relative_url }}"
