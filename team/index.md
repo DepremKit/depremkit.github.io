@@ -8,7 +8,7 @@ nav:
 
 {% include section.html %}
 
-<div class="cols" style="--cols: {{ include | object_items | size }}">
+<div>
   {% include list.html data="members" component="portrait" filters="order: 1" %}
   {% include list.html data="members" component="portrait" filters="order: 2" %}
   {% include list.html data="members" component="portrait" filters="order: 3" %}
