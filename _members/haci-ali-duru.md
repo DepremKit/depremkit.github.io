@@ -1,4 +1,5 @@
 ---
 name: Dr. Hacı Ali Duru
-image: images/person.jpg
+image: images/person.png
+role: li
 ---

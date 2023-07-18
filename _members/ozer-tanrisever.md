@@ -1,4 +1,5 @@
 ---
 name: Özer Tanrısever
-image: images/person.jpg
+image: images/person.png
+role: vb
 ---

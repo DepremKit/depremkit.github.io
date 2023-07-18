@@ -1,4 +1,5 @@
 ---
 name: Dr. Batuhan Bardak
-image: images/person.jpg
+image: images/person.png
+role: li
 ---

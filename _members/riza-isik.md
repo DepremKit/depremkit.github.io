@@ -1,4 +1,5 @@
 ---
 name: Rıza Işık
-image: images/person.jpg
+image: images/photo.png
+role: uz
 ---
