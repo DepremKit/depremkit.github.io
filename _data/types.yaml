@@ -3,15 +3,15 @@
 # team member roles
 
 vb:
-  icon: fa fa-solid fa-microscope
+  icon: fa-solid fa-microscope
   description: Veri Bilimci
 
 uz:
-  icon: fa fa-solid fa-microscope
+  icon: fa-solid fa-microscope
   description: Uzman Veri Bilimci
 
 li:
-  icon: fa fa-solid fa-graduation-cap
+  icon: fa-solid fa-graduation-cap
   description: Lider Veri Bilimci
 
 # general

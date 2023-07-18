@@ -8,4 +8,8 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: vb" %} {% include list.html data="members" component="portrait" filters="role: ^(?!vb$)" %}
+{% include list.html data="members" component="portrait" filters="order: 1" %}
+{% include list.html data="members" component="portrait" filters="order: 2" %}
+{% include list.html data="members" component="portrait" filters="order: 3" %}
+{% include list.html data="members" component="portrait" filters="order: 4" %}
+{% include list.html data="members" component="portrait" filters="order: 5" %}
