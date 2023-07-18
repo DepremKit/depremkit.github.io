@@ -6,8 +6,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Takım
 
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filters="order: 1" %}
 {% include list.html data="members" component="portrait" filters="order: 2" %}
 {% include list.html data="members" component="portrait" filters="order: 3" %}
