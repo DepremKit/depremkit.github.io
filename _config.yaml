@@ -1,18 +1,11 @@
 # site properties and page defaults
 title: DepremKit
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@DepremKit.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: DepremKit
-  twitter: DepremKit
-  youtube: DepremKit
+  email: depremkit@gmail.com
 
 ### jekyll settings
 
