@@ -6,4 +6,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Takım
 
-Takım üyelerimiz bildiri sonuçlarının yayınlanmasının ardından paylaşılacaktır.
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: pi" %} {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}

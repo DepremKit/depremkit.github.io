@@ -2,29 +2,17 @@
 
 # team member roles
 
-pi:
+vb:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Veri Bilimci
 
-postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+uz:
+  icon: fa-solid fa-microscope
+  description: Uzman Veri Bilimci
 
-phd:
+li:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
-
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+  description: Lider Veri Bilimci
 
 # general
 
