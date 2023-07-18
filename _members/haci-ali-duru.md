@@ -1,6 +1,6 @@
 ---
 name: Dr. Hacı Ali Duru
 image: images/person.png
-role: li
+role: kli
 order: 4
 ---
