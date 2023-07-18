@@ -1,5 +1,7 @@
 ---
 name: Rıza Işık
-image: images/photo.png
+image: images/person.png
 role: uz
+nav:
+  order: 1
 ---
