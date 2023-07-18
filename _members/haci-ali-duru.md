@@ -2,6 +2,5 @@
 name: Dr. Hacı Ali Duru
 image: images/person.png
 role: li
-nav:
-  order: 4
+order: 4
 ---

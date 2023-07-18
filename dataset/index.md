@@ -4,7 +4,7 @@ nav:
   order: 2
 ---
 
-# {% include icon.html icon="fa-solid fa-database" %}VERİ KÜMESİ
+# {% include icon.html icon="fa fa-solid fa-database" %}VERİ KÜMESİ
 
 Depremin gerçekleştiği 06 Şubat 2023 03:00 ve 13 Şubat 2023 23:59 tarihleri arasında paylaşılan yaklaşık 12 milyon 700 bin tweet, anahtar kelime sorgulaması yapılarak Twitter'dan toplanmıştır. Kullanılan anahtar kelimeler aşağıda bulunmaktadır.
 
