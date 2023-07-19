@@ -1,6 +1,6 @@
 ---
 name: Rıza Işık
-image: images/rizaisik.jpg
+image: images/rizaisik.jpeg
 role: uz
 order: 1
 ---
