@@ -6,7 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-square-poll-vertical" %}SONUÇLAR
 
-Altın veri kümesi kullanılarak İkili Sınıflandırma, Çoklu Sınıflandırma ve Varlık İsim Tanıma problemleri için deneyler gerçekleştirilmiştir. Bu problemler için derin öğrenme modellerinin performansları ölçülmüş ve veri kümelerinin yapay öğrenme problemleri için kullanılabilirligi test edilmistir. Deney sonuçları aşağıdaki tabloda paylaşılmıştır. Deneyler ve sonuçlarına dair daha detaylı bilgiler için makalede bulunmaktadır.
+Altın veri kümesi kullanılarak İkili Sınıflandırma, Çoklu Sınıflandırma ve Varlık İsim Tanıma problemleri için deneyler gerçekleştirilmiştir. Bu problemler için derin öğrenme modellerinin performansları ölçülmüş ve veri kümelerinin yapay öğrenme problemleri için kullanılabilirligi test edilmistir. Deney sonuçları aşağıdaki tabloda paylaşılmıştır. Deneyler ve sonuçlarına dair daha detaylı bilgiler makalede bulunmaktadır.
 
 {% include figure.html image="images/results.PNG" caption="Deneysel Sonuçlar" %}
 
