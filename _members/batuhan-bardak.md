@@ -1,6 +1,6 @@
 ---
 name: Dr. Batuhan Bardak
-image: images/person.png
+image: images/batuhanbardak.jpeg
 role: li
 order: 5
 ---
