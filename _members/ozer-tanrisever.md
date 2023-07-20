@@ -1,6 +1,6 @@
 ---
 name: Özer Tanrısever
-image: images/person.png
+image: images/ozertanrisever.jpeg
 role: vb
 order: 3
 ---
